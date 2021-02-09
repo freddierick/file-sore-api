@@ -1,0 +1,7 @@
+port = 8080
+mongoURI=mongodb+srv:/
+redisURI=redis://:
+base_url = https://localhost
+
+SETTINGS=
+inviteCodeForSignUp = true
